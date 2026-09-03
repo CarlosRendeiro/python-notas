@@ -12,3 +12,4 @@
     - [ ] Definição de Funções
     - [ ] Classe e Objeto (POO)
   - [ ] 5. Ecossistema e Principais Bibliotecas
+- [ ] Introdução à Linguagem Pyton
